@@ -1,0 +1,39 @@
+Start testing: Nov 22 22:55 ?D1迆㊣那℅?那㊣??
+----------------------------------------------------------
+1/1 Testing: unitTest_main
+1/1 Test: unitTest_main
+Command: "C:/Users/mr.xul/Desktop/project/build/test/test_main.exe"
+Directory: C:/Users/mr.xul/Desktop/project/build/test
+"unitTest_main" start time: Nov 22 22:55 ?D1迆㊣那℅?那㊣??
+Output:
+----------------------------------------------------------
+ ==================test Operator_plus%set =================
+ Passed: Operator_plus%set()
+ ==================test Operator_plus%set x>0,y>0=================
+ Error: x or y is less than 0
+ Please check the inputs of set(), some wrong input is provided
+ Error: x or y is less than 0
+ Please check the inputs of set(), some wrong input is provided
+ ==================test Operator_plus%solve ========================
+ ==================test Operator_devide%set =================
+ Passed: Operator_devide%set()
+ ==================test Operator_devide%set x/=0,y/=0=================
+ Error: x or y is equal 0
+ Please check the inputs of set(), some wrong input is provided
+ Error: x or y is equal 0
+ Please check the inputs of set(), some wrong input is provided
+ ==================test Operator_devide%solve ========================
+ ================Summary================= ====
+
+All10tests are passed!!! congratulations!!!
+
+
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"unitTest_main" end time: Nov 22 22:55 ?D1迆㊣那℅?那㊣??
+"unitTest_main" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 22 22:55 ?D1迆㊣那℅?那㊣??
